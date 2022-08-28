@@ -4,7 +4,7 @@ I'm a masters student at Stanford University studying Computer Science (Computer
 
 - 💞️ I’m looking to collaborate on open source projects that peak my interest.
 - 📫 How to reach me ...
-erickha [at] stanford.edu
+erickha [at] stanford [dot] edu
 
 <!---
 erickhernandezascencio/erickhernandezascencio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
